@@ -1,0 +1,59 @@
+(/´ワ`)/ | ~/F/1b on main ◦ time john sha_256_default
+Loaded 1 password hash (crypt, generic crypt(3) [?/64])
+Warning: OpenMP is disabled; a non-OpenMP build may be faster
+Press 'q' or Ctrl-C to abort, almost any other key for status
+blood            (?)
+1g 0:00:00:08 100% 2/3 0.1164g/s 156.4p/s 156.4c/s 156.4C/s billy1..december
+Use the "--show" option to display all of the cracked passwords reliably
+Session completed
+
+________________________________________________________
+Executed in    8.64 secs    fish           external
+   usr time    8.60 secs    3.16 millis    8.60 secs
+   sys time    0.01 secs    0.00 millis    0.01 secs
+
+(/´ワ`)/ | ~/F/1b on main ◦ time john sha_512_default
+Loaded 1 password hash (crypt, generic crypt(3) [?/64])
+Warning: OpenMP is disabled; a non-OpenMP build may be faster
+Press 'q' or Ctrl-C to abort, almost any other key for status
+blood            (?)
+1g 0:00:00:07 100% 2/3 0.1345g/s 180.8p/s 180.8c/s 180.8C/s billy1..december
+Use the "--show" option to display all of the cracked passwords reliably
+Session completed
+
+________________________________________________________
+Executed in    7.49 secs    fish           external
+   usr time    7.44 secs    1.71 millis    7.44 secs
+   sys time    0.02 secs    1.02 millis    0.02 secs
+
+
+
+(/´ワ`)/ | ~/F/1b on main ◦ time john sha_512_1k
+Loaded 1 password hash (crypt, generic crypt(3) [?/64])
+Warning: OpenMP is disabled; a non-OpenMP build may be faster
+Press 'q' or Ctrl-C to abort, almost any other key for status
+blood            (?)
+1g 0:00:00:01 100% 2/3 0.6289g/s 845.2p/s 845.2c/s 845.2C/s billy1..december
+Use the "--show" option to display all of the cracked passwords reliably
+Session completed
+
+________________________________________________________
+Executed in    1.67 secs    fish           external
+   usr time    1.63 secs    1.08 millis    1.63 secs
+   sys time    0.02 secs    0.66 millis    0.02 secs
+
+
+
+(/´ワ`)/ | ~/F/1b on main ◦ time john sha_512_10k
+Loaded 1 password hash (crypt, generic crypt(3) [?/64])
+Warning: OpenMP is disabled; a non-OpenMP build may be faster
+Press 'q' or Ctrl-C to abort, almost any other key for status
+blood            (?)
+1g 0:00:00:15 100% 2/3 0.06635g/s 89.18p/s 89.18c/s 89.18C/s billy1..december
+Use the "--show" option to display all of the cracked passwords reliably
+Session completed
+
+________________________________________________________
+Executed in   15.15 secs    fish           external
+   usr time   15.10 secs    1.58 millis   15.10 secs
+   sys time    0.01 secs    0.95 millis    0.01 secs
